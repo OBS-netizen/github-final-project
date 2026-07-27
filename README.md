@@ -10,6 +10,7 @@ A calculator that calculates simple interest given principal, annual rate of int
 ## Output:
 - Simple interest = `p * t * r / 100`
 
+
 ## How to Use:
 1. Clone this repository.
 2. Run the `simple-interest.sh` script.
